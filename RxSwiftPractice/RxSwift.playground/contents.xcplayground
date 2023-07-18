@@ -4,5 +4,6 @@
         <page name='ColdなObservable'/>
         <page name='HotなObservable'/>
         <page name='Create'/>
+        <page name='Observableの購読'/>
     </pages>
 </playground>
