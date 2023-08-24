@@ -14,3 +14,9 @@ func myJust<E>(_ element: E) -> Observable<E> {
 _ = myJust(100).subscribe(onNext: { value in
     print(value)
 })
+
+
+
+
+
+
